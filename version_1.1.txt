@@ -1,0 +1,5 @@
+Newest version:
+1.1 - 30/11/2022 - Fix output7.txt in the expected_output folder.
+
+Older version:
+1.0 - 29/11/2022 - The first version.
